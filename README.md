@@ -1,0 +1,1 @@
+This is a hacked version of azizatif's excellent ncrontab project that adds seconds to cron tab entries
